@@ -8,6 +8,7 @@ public class MainClass {
     System.out.println("Hello Git");
     System.out.println("은영");
     System.out.println("규혁");
+    System.out.println("혜진");
 	}
 
 }
