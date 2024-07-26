@@ -9,6 +9,6 @@ public class MainClass {
     System.out.println("은영");
     System.out.println("규혁");
     System.out.println("혜진");
+    System.out.println("경주");
 	}
-
 }
