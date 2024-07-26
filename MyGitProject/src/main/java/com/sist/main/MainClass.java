@@ -16,6 +16,7 @@ public class MainClass {
     System.out.println("빵이");
     System.out.println("b");
     System.out.println("c");
+    System.out.println("c");
     
     ///////
 	}
