@@ -11,9 +11,8 @@ public class MainClass {
     System.out.println("규혁");
     System.out.println("혜진");
     System.out.println("경주");
-    System.out.println("asdasd");
+    System.out.println("빵이");
     System.out.println("b");
-    
     System.out.println("c");
     
     ///////
